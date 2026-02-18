@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="project_icon" src="https://github.com/user-attachments/assets/c36d25e4-adfc-4c7b-ac56-1e4097b7b057" />
 
 # 🚪 La Puerta — Dynamic Reverse Proxy
 

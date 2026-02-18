@@ -1,0 +1,13 @@
+{
+  "name": "proxy-la-puerta",
+  "version": "1.0.0",
+  "description": "La Puerta is a lightweight, dynamic reverse proxy server that intelligently routes incoming HTTP requests to backend services based on configurable path-based rules.",
+  "main": "t.js",
+  "scripts": {
+    "start": "node proxy.js",
+    "dev": "node proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,12 @@
+    {
+      "service-port": 3002,
+      "routes": [
+      {
+        "path": "/",
+        "target": "http://localhost:3007",
+        "enabled": true,
+        " ": ""
+      }
+    
+    ]
+  }
